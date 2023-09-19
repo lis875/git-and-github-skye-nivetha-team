@@ -1,16 +1,10 @@
 beverage = "water"
-count = 5
+count = 101
+for i in range(100):
+    count = count - 1
+    print(count, "bottles of", beverage, "on the wall")
+    print(count, "bottles of", "water")
+    print("If one of those bottles should happen to fall, ", count - 1, "bottles of beer on the wall...")
+    print("")
 
-print(count, "bottles of", beverage, "on the wall")
-print(count, "bottles of", "water")
-print("Take one down, pass it around")
-count = count - 1
-print(count, "bottles of", beverage, "on the wall")
-
-print("")
-
-print(count, "bottles of", beverage, "on the wall")
-print(count, "bottles of", beverage)
-print("Take one down, pass it around")
-count = count - 1
-print(count, "bottles of", beverage, "on the table")
+print("No more bottles of beer on the wall, no more bottles of beer. We've taken them down and passed them around; now we're drunk and passed out!")
