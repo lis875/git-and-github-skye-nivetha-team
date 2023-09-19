@@ -1,5 +1,5 @@
 beverage = "water"
-count = 2
+count = 5
 
 print(count, "bottles of", beverage, "on the wall")
 print(count, "bottles of", "water")
