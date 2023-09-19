@@ -1,3 +1,3 @@
 An exciting new project!
 
-By: Dan Bai
+By: Dan Bai (Sherlenbon)
