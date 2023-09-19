@@ -1,3 +1,3 @@
 An exciting new project!
 
-By: Rick Wash
+By: Dan Bai
