@@ -1,9 +1,9 @@
-beverage = "wine"
+beverage = "water"
 count = 101
 for i in range(100):
     count = count - 1
     print(count, "bottles of", beverage, "on the wall")
-    print(count, "bottles of", "wine")
+    print(count, "bottles of", "water")
     print("If one of those bottles should happen to fall, ", count - 1, "bottles of beer on the wall...")
     print("")
 
