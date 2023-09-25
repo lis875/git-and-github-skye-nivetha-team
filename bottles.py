@@ -1,4 +1,4 @@
-beverage = "water"
+beverage = "wine"
 count = 101
 for i in range(100):
     count = count - 1
